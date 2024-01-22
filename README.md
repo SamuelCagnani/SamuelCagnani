@@ -21,7 +21,7 @@
 [![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 
 <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
 </picture>
