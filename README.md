@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Samuel Cagnani 👋🏻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuelcagnani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelcagnani)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelcagnani0@gmail.com)
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelCagnani&show_icons=true&rank_icon=github&theme=github_dark)
