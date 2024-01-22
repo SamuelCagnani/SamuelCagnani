@@ -19,5 +19,3 @@
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
-
-![snake gif](https://github.com/SamuelCagnani/SamuelCagnani/blob/output/github-contribution-grid-snake.svg)
