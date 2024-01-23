@@ -42,11 +42,11 @@ Em 2020 ingressei no curso Técnico em Informática Integrado ao Ensino Médio n
 </div>
 
 <div style="display:inline-block"><br>
-  <img align="center" alt="Samuel-HTML" height="41,25" width="55" src="https://https://icons8.com/icons/set/c-programming" />
-  <img align="center" alt="Samuel-CSS" height="41,25" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Samuel-PHP" height="41,25" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Samuel-Assembly" height="41,25" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
-  <img align="center" alt="Samuel-C" height="41,25" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
+  <img align="center" alt="Samuel-C" height="41,25" width="55" src="./icons/icons8-c-programming.svg">  
+  <img align="center" alt="Samuel-HTML" height="41,25" width="55" src="./icons/icons8-html.svg" />
+  <img align="center" alt="Samuel-CSS" height="41,25" width="55" src="./icons/icons8-css.svg" />
+  <img align="center" alt="Samuel-PHP" height="41,25" width="55" src="./icons/icons8-php.svg" />
+  <img align="center" alt="Samuel-Assembly" height="41,25" width="55" src="./icons/icons8-assembly-96.png" />  
   <img align="center" alt="Samuel-Docker" height="41,25" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Samuel-Kubernetes" height="41,25" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
       
