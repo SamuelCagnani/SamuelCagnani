@@ -1,27 +1,60 @@
-### Olá! Eu sou o Samuel Cagnani 👋🏻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelcagnani)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:samuelcagnani0@gmail.com)
+# 🌎 Olá! Eu sou o Samuel Cagnani! 👋
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelCagnani&show_icons=true&rank_icon=github&theme=github_dark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelcagnani) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:samuelcagnani0@gmail.com)
+      
+## Sobre Mim
 
-## Tecnologias que eu uso no meu dia
+🚀 Estudante apaixonado por tecnologia, estrutura de dados e computação competitiva.
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-[![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+📚 Durante esse período, tenho me dedicado a aprimorar minhas habilidades em:
 
-## Aprendendo
+- 💻 **Algoritmos de Otimização**  Tomada de decisões informadas, maximizando ou minimizando uma função objetiva aderindo a restrições específicas.
 
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+- 📖 **Assembly e C ANSI:** Estudo estas poderosas linguagens para desenvolver uma noção aprofundada sobre o funcionamento dos computadores e sistemas operacionais.
 
-<picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
-</picture>
+- 📱 **Sistemas Embracados e Iot:** Gosto muito da área de desenvolvimento de projetos de automação, a integração dos meios com a Iot possibilita a construção de sistemas mais completos e complexos.
+
+🧐 Estou sempre em busca de novos conhecimentos e desafios!
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+## Interesses e Habilidades
+
+- Desenvolvimento Backend C
+  - Versões: ANSI, ISO C, C99 
+- Desenvolvimento Frontend: HTML, CSS, PHP
+- Metodologias Ágeis: Scrum, XP
+- Bancos de Dados: MySQL
+- Containers e Orquestração: Docker, Kubernetes
+- Versionamento de código: Git, GitHub
+
+### Minha trajetoria no ramo da tecnologia
+
+Em 2020 ingressei no curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Sul de Minas Gerais, onde estudei por 3 anos e pude ter a certeza que eu realmente gostava da área de tecnologia. Muito animado, decidi prestar o vestibular para Bacharel em Engenharia de Computação no mesmo instituto onde me formei técnico. Hoje, estou indo para o meu segundo ano na faculdade e continuo buscando novos conhecimentos, habilidades e me aprofundando na área para me tornar um profissional completo e competente, capaz de resolver problemas, propor soluções e contribuir com um time no futuro.
+
+---
+
+<div align="center">
+  <a href="https://github.com/SamuelCagnani">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelCagnani&show_icons=true&cache_seconds=86400&theme=github_dark&include_all_commits=true&rank_icon=github&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCagnani&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+<div style="display:inline-block"><br>
+  <img align="center" alt="Samuel-HTML" height="41,25" width="55" src="https://https://icons8.com/icons/set/c-programming" />
+  <img align="center" alt="Samuel-CSS" height="41,25" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Samuel-PHP" height="41,25" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Samuel-Assembly" height="41,25" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
+  <img align="center" alt="Samuel-C" height="41,25" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
+  <img align="center" alt="Samuel-Docker" height="41,25" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="Samuel-Kubernetes" height="41,25" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
+      
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
+</div>
