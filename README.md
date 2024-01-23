@@ -13,7 +13,7 @@
 
 - 📖 **Assembly e C ANSI:** Estudo estas poderosas linguagens para desenvolver uma noção aprofundada sobre o funcionamento dos computadores e sistemas operacionais.
 
-- 📱 **Sistemas Embracados e Iot:** Gosto muito da área de desenvolvimento de projetos de automação, a integração dos meios com a Iot possibilita a construção de sistemas mais completos e complexos.
+- 📱 **Sistemas Embracados e Iot:** Gosto muito da área de desenvolvimento de projetos de automação, a integração dos meios com Iot possibilita a construção de sistemas mais completos e complexos.
 
 🧐 Estou sempre em busca de novos conhecimentos e desafios!
 
@@ -42,11 +42,11 @@ Em 2020 ingressei no curso Técnico em Informática Integrado ao Ensino Médio n
 </div>
 
 <div style="display:inline-block"><br>
+  <img align="center" alt="Samuel-Assembly" height="41,25" width="55" src="./icons/icons8-assembly-96.png" />  
   <img align="center" alt="Samuel-C" height="41,25" width="55" src="./icons/icons8-c-programming.svg">  
   <img align="center" alt="Samuel-HTML" height="41,25" width="55" src="./icons/icons8-html.svg" />
   <img align="center" alt="Samuel-CSS" height="41,25" width="55" src="./icons/icons8-css.svg" />
   <img align="center" alt="Samuel-PHP" height="41,25" width="55" src="./icons/icons8-php.svg" />
-  <img align="center" alt="Samuel-Assembly" height="41,25" width="55" src="./icons/icons8-assembly-96.png" />  
   <img align="center" alt="Samuel-Docker" height="41,25" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Samuel-Kubernetes" height="41,25" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
       
