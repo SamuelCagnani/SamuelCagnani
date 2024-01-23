@@ -52,3 +52,5 @@ Em 2020 ingressei no curso Técnico em Informática Integrado ao Ensino Médio n
       
   
 </div>
+
+![snake gif](https://github.com/SamuelCagnani/SamuelCagnani/blob/output/github-contribution-grid-snake.svg)
