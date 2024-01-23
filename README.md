@@ -50,11 +50,5 @@ Em 2020 ingressei no curso Técnico em Informática Integrado ao Ensino Médio n
   <img align="center" alt="Samuel-Docker" height="41,25" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Samuel-Kubernetes" height="41,25" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
       
-  <div>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake.svg">
-    </picture>
-  </div>
+  
 </div>
