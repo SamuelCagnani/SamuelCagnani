@@ -9,11 +9,11 @@
 
 📚 Durante esse período, tenho me dedicado a aprimorar minhas habilidades em:
 
-- 💻 **Algoritmos de Otimização**  Tomada de decisões informadas, maximizando ou minimizando uma função objetiva aderindo a restrições específicas.
+- 🧠 **Lógica, estrutura de dados e resolução de problemas:** Aplicação de raciocínio estruturado para analisar problemas, testar hipóteses e construir soluções claras e eficientes.
 
-- 📖 **Assembly e C ANSI:** Estudo estas poderosas linguagens para desenvolver uma noção aprofundada sobre o funcionamento dos computadores e sistemas operacionais.
+- 💻 **Desenvolvimento de software com foco em backend (C/C++ e Python):** Desenvolvimento de aplicações e scripts com atenção à organização do código, uso de boas práticas e integração com bancos de dados e APIs.
 
-- 📱 **Sistemas Embracados e Iot:** Gosto muito da área de desenvolvimento de projetos de automação, a integração dos meios com Iot possibilita a construção de sistemas mais completos e complexos.
+- 🔗 **Integração de sistemas e automação:** Experiência com consumo de APIs REST, versionamento com Git/GitHub e uso de ferramentas como Docker, explorando a integração entre serviços e sistemas.
 
 🧐 Estou sempre em busca de novos conhecimentos e desafios!
 
@@ -21,17 +21,30 @@
 
 ## Interesses e Habilidades
 
-- Desenvolvimento Backend C
-  - Versões: ANSI, ISO C, C99 
-- Desenvolvimento Frontend: HTML, CSS, PHP
-- Metodologias Ágeis: Scrum, XP
-- Bancos de Dados: MySQL
-- Containers e Orquestração: Docker, Kubernetes
-- Versionamento de código: Git, GitHub
+- Metodologias Ágeis:
+  - Scrum e Kanban, com uso de Jira, Trello e Notion.
+- Linguagens de Programação:
+  - Python, C / C++, Java e Node.js / JavaScript.
+- Desenvolvimento Backend:
+  - Programação em C (ANSI, ISO C, C99) e Python, com foco em lógica, organização de código e integração com outros sistemas.
+- Desenvolvimento Frontend:
+  - HTML, CSS e PHP.
+- Bancos de Dados:
+  - SQL e NoSQL.
+- APIs e Integrações:
+  - Consumo de APIs REST e criação de APIs simples.
+- Controle de Versão:
+  - Git e GitHub.
+- Containers e Orquestração:
+  - Docker e Kubernetes.
+- Cloud Computing:
+  - AWS, Azure e Google Cloud Platform.
 
 ### Minha trajetoria no ramo da tecnologia
 
-Em 2020 ingressei no curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Sul de Minas Gerais, onde estudei por 3 anos e pude ter a certeza que eu realmente gostava da área de tecnologia. Muito animado, decidi prestar o vestibular para Bacharel em Engenharia de Computação no mesmo instituto onde me formei técnico. Hoje, estou indo para o meu segundo ano na faculdade e continuo buscando novos conhecimentos, habilidades e me aprofundando na área para me tornar um profissional completo e competente, capaz de resolver problemas, propor soluções e contribuir com um time no futuro.
+Em 2020, ingressei no curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Sul de Minas Gerais, onde estudei por três anos e consolidei meu interesse pela área de tecnologia. Durante esse período, tive contato com programação, redes e banco de dados, o que confirmou minha vontade de seguir carreira na área.
+
+Motivado por essa experiência, prestei o vestibular para o curso de Bacharelado em Engenharia de Computação no mesmo instituto. Atualmente, estou no início do quarto ano da graduação e sigo buscando ampliar meus conhecimentos técnicos, desenvolver novas habilidades e aprofundar minha formação, com o objetivo de me tornar um profissional capaz de resolver problemas, propor soluções e contribuir de forma efetiva em equipes de tecnologia.
 
 ---
 
