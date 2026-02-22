@@ -22,13 +22,13 @@
 ## Interesses e Habilidades
 
 - Metodologias Ágeis:
-  - Scrum e Kanban, com uso de Jira, Trello e Notion.
+  - Scrum e Kanban.
 - Linguagens de Programação:
-  - Python, C / C++, Java e Node.js / JavaScript.
+  - Java, Python e JavaScript.
 - Desenvolvimento Backend:
-  - Programação em C (ANSI, ISO C, C99) e Python, com foco em lógica, organização de código e integração com outros sistemas.
+  - Programação em Java e Python, com foco em lógica, organização de código e integração com outros sistemas.
 - Desenvolvimento Frontend:
-  - HTML, CSS e PHP.
+  - HTML, CSS, JavaScript.
 - Bancos de Dados:
   - SQL e NoSQL.
 - APIs e Integrações:
@@ -48,30 +48,35 @@ Motivado por essa experiência, prestei o vestibular para o curso de Bacharelado
 
 ---
 
-<div align="center">
-  <a href="https://github.com/SamuelCagnani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelCagnani&show_icons=true&cache_seconds=86400&theme=github_dark&include_all_commits=true&rank_icon=github&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCagnani&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+<div style="display: inline-flex; align-items: center;">
+  <img height="50" style="margin-right: 20px; vertical-align: middle;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-<div style="display:inline-block"><br>
-  <img align="center" alt="Samuel-Assembly" height="41,25" width="55" src="./icons/icons8-assembly-96.png" />  
-  <img align="center" alt="Samuel-C" height="41,25" width="55" src="./icons/icons8-c-programming.svg">  
-  <img align="center" alt="Samuel-HTML" height="41,25" width="55" src="./icons/icons8-html.svg" />
-  <img align="center" alt="Samuel-CSS" height="41,25" width="55" src="./icons/icons8-css.svg" />
-  <img align="center" alt="Samuel-PHP" height="41,25" width="55" src="./icons/icons8-php.svg" />
-  <img align="center" alt="Samuel-Docker" height="41,25" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="Samuel-Kubernetes" height="41,25" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
+  <img height="50" style="margin-right: 20px; vertical-align: middle;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img height="50" style="margin-right: 20px; vertical-align: middle;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
+  <img height="50" style="margin-right: 20px; vertical-align: middle;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img height="50" style="margin-right: 20px; vertical-align: middle;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img height="50" style="margin-right: 20px; vertical-align: middle;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+  <img height="50" style="vertical-align: middle;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+</div>
 
   <div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" 
-      src="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
       
 </div>
