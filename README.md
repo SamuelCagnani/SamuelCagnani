@@ -15,6 +15,8 @@
 
 - 🔗 **Integração de sistemas e automação:** Experiência com consumo de APIs REST, versionamento com Git/GitHub e uso de ferramentas como Docker, explorando a integração entre serviços e sistemas.
 
+- 🎓 **Certificações e formação contínua:** Em constante busca por certificações relevantes na área de tecnologia (como cloud, backend e engenharia de software), com foco em consolidar fundamentos e validar conhecimentos técnicos no mercado.
+
 🧐 Estou sempre em busca de novos conhecimentos e desafios!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
