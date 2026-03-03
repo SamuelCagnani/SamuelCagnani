@@ -3,6 +3,24 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelcagnani) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:samuelcagnani0@gmail.com)
       
+## ⭐ Repositório em Destaque
+
+### ♟ Sistema de Jogo de Damas em Java  
+
+🔗 **Repositório:** [damas](https://github.com/SamuelCagnani/damas)
+
+Projeto autoral desenvolvido em Java com foco em organização arquitetural, modelagem orientada a objetos e implementação completa da lógica do jogo.
+
+### 🚀 Principais pontos do projeto
+
+- 🧠 Implementação das regras completas do jogo de Damas
+- 🏗 Aplicação do padrão arquitetural MVC (Model-View-Controller)
+- 🎮 Interface gráfica desenvolvida em Java
+- 📊 Modelagem do tabuleiro, peças e jogadas com foco em clareza e manutenção
+- 🔄 Versionamento estruturado utilizando Git e GitHub
+
+Este projeto demonstra minha capacidade de estruturar sistemas, aplicar boas práticas de engenharia de software e transformar regras de negócio em código organizado e escalável.
+
 ## Sobre Mim
 
 🚀 Estudante apaixonado por tecnologia, estrutura de dados e computação competitiva.
