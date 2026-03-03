@@ -2,7 +2,33 @@
 # 🌎 Olá! Eu sou o Samuel Cagnani! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelcagnani) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:samuelcagnani0@gmail.com)
-      
+
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
+
+<p>
+
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
+</p>
+
 ## ⭐ Repositório em Destaque
 
 ### ♟ Sistema de Jogo de Damas em Java  
@@ -67,32 +93,5 @@ Em 2020, ingressei no curso Técnico em Informática Integrado ao Ensino Médio 
 Motivado por essa experiência, prestei o vestibular para o curso de Bacharelado em Engenharia de Computação no mesmo instituto. Atualmente, estou no início do quarto ano da graduação e sigo buscando ampliar meus conhecimentos técnicos, desenvolver novas habilidades e aprofundar minha formação, com o objetivo de me tornar um profissional capaz de resolver problemas, propor soluções e contribuir de forma efetiva em equipes de tecnologia.
 
 ---
-<p>
-<p>
-<p>
-
-<p>
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
-</p>
-
-  <div>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamuelCagnani/SamuelCagnani/output/github-contribution-grid-snake.svg">
-    </picture>
-  </div>
       
 </div>
