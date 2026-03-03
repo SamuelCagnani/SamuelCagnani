@@ -11,7 +11,7 @@
 
 - 🧠 **Lógica, estrutura de dados e resolução de problemas:** Aplicação de raciocínio estruturado para analisar problemas, testar hipóteses e construir soluções claras e eficientes.
 
-- 💻 **Desenvolvimento de software com foco em backend (C/C++ e Python):** Desenvolvimento de aplicações e scripts com atenção à organização do código, uso de boas práticas e integração com bancos de dados e APIs.
+- 💻 **Desenvolvimento de software com foco em backend (Java e Python):** Desenvolvimento de aplicações e scripts com atenção à organização do código, uso de boas práticas e integração com bancos de dados e APIs.
 
 - 🔗 **Integração de sistemas e automação:** Experiência com consumo de APIs REST, versionamento com Git/GitHub e uso de ferramentas como Docker, explorando a integração entre serviços e sistemas.
 
