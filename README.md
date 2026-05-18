@@ -33,6 +33,10 @@
 
 ## ⭐ Repositório em Destaque
 
+### ⚙️ Task Management REST API
+
+🔗 **Repositório:** [task_management_RESTAPI](https://github.com/SamuelCagnani/task_management_RESTAPI)
+
 ### ♟ Sistema de Jogo de Damas em Java  
 
 🔗 **Repositório:** [damas](https://github.com/SamuelCagnani/damas)
